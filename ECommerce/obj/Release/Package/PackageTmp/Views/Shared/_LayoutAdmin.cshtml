@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Admin Page</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+
+        <link href="~/Content/bootstrap/bootstrap.min.css" rel="stylesheet">
+        <link href="~/Content/bootstrap/bootstrap-responsive.min.css" rel="stylesheet">
+        <link href="~/Content/bootstrappage.css" rel="stylesheet" />
+        <link href="~/Content/jquery-ui.css" rel="stylesheet" />
+
+        <!-- global styles -->
+        <link href="~/Content/flexslider.css" rel="stylesheet" />
+        <link href="~/Content/main.css" rel="stylesheet" />
+        <link href="~/Content/jquery.fancybox.css" rel="stylesheet" />
+        <link href="~/Content/custom.css" rel="stylesheet" />
+        <link href="~/Content/PagedList.css" rel="stylesheet" />
+
+        <!-- scripts -->
+        <script src="~/Scripts/jquery-1.7.2.min.js"></script>
+        <script src="~/Scripts/jquery-ui-1.8.24.min.js"></script>
+        <script src="~/Scripts/bootstrap/bootstrap.min.js"></script>
+        <script src="~/Scripts/superfish.js"></script>
+        <script src="~/Scripts/jquery.scrolltotop.js"></script>
+        <script src="~/Scripts/jquery.fancybox.js"></script>
+    </head>
+
+    <body>
+        <div id="top-bar" class="container">
+            <div class="row">
+                <div class="span4">
+                    <a href="/" class="logo pull-left"><img src="~/Images/logo.png" class="site_logo" alt=""></a>
+                </div>
+                <div class="span8">
+                    <div class="account pull-right">
+                        <ul class="user-menu">
+                            <li><a href="/Admin" style="color: #4697ce;">Admin</a></li>
+                            <li><a href="/Admin/CreateCategory" style="color: #4697ce;">Category</a></li>
+                            <li><a href="/Admin/CreateBrand" style="color: #4697ce;">Brand</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @RenderBody()
+    </body>
+</html>
+
+

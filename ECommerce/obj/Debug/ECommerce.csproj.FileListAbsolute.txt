@@ -1,0 +1,94 @@
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\ECommerce.dll.config
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\ECommerce.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\ECommerce.pdb
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\AutoMapper.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\AutoMapper.Net4.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\Dapper.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\Newtonsoft.Json.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\System.Web.Helpers.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\System.Web.Mvc.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\System.Web.Razor.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\System.Web.WebPages.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\AutoMapper.xml
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\Dapper.pdb
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\Dapper.xml
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\Newtonsoft.Json.xml
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\System.Web.Helpers.xml
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\System.Web.Mvc.xml
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\System.Web.Razor.xml
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\System.Web.WebPages.xml
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\obj\Debug\ECommerce.dll
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\obj\Debug\ECommerce.pdb
+C:\Users\50702_000\Desktop\Clothes Web\ECommerce\obj\Debug\ECommerce.csprojResolveAssemblyReference.cache
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\ECommerce.dll.config
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\ECommerce.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\ECommerce.pdb
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\AutoMapper.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\AutoMapper.Net4.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\Dapper.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\Newtonsoft.Json.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\PagedList.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\PagedList.Mvc.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\System.Web.Helpers.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\System.Web.Mvc.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\System.Web.Razor.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\System.Web.WebPages.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\AutoMapper.xml
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\Dapper.pdb
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\Dapper.xml
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\PagedList.xml
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\PagedList.Mvc.xml
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\Newtonsoft.Json.xml
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\System.Web.Helpers.xml
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\System.Web.Mvc.xml
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\System.Web.Razor.xml
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\System.Web.WebPages.xml
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\obj\Debug\ECommerce.dll
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\obj\Debug\ECommerce.pdb
+C:\Users\50702_000\Desktop\E-Commerce\ECommerce\obj\Debug\ECommerce.csprojResolveAssemblyReference.cache
+E:\Web_Product\E-Commerce\ECommerce\bin\ECommerce.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\ECommerce.pdb
+E:\Web_Product\E-Commerce\ECommerce\bin\AutoMapper.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\AutoMapper.Net4.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\Dapper.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\Microsoft.Web.Infrastructure.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\Newtonsoft.Json.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\PagedList.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\PagedList.Mvc.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.Helpers.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.Http.WebHost.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.Mvc.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.Razor.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.WebPages.Deployment.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.WebPages.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.WebPages.Razor.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\AutoMapper.xml
+E:\Web_Product\E-Commerce\ECommerce\bin\Dapper.pdb
+E:\Web_Product\E-Commerce\ECommerce\bin\Dapper.xml
+E:\Web_Product\E-Commerce\ECommerce\bin\PagedList.xml
+E:\Web_Product\E-Commerce\ECommerce\bin\PagedList.Mvc.xml
+E:\Web_Product\E-Commerce\ECommerce\bin\Newtonsoft.Json.xml
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.Helpers.xml
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.Http.WebHost.xml
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.Mvc.xml
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.Razor.xml
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.WebPages.xml
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.WebPages.Deployment.xml
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.WebPages.Razor.xml
+E:\Web_Product\E-Commerce\ECommerce\obj\Debug\ECommerce.csprojResolveAssemblyReference.cache
+E:\Web_Product\E-Commerce\ECommerce\obj\Debug\ECommerce.dll
+E:\Web_Product\E-Commerce\ECommerce\obj\Debug\ECommerce.pdb
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Net.Http.Formatting.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.Http.dll
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Net.Http.Formatting.xml
+E:\Web_Product\E-Commerce\ECommerce\bin\System.Web.Http.xml

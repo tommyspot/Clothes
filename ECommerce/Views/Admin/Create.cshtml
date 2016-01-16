@@ -1,0 +1,129 @@
+﻿@model ECommerce.Models.ClothesCreateViewModel
+
+@{
+    Layout = "";
+}
+
+@using (Html.BeginForm("Create", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" })) {
+    @Html.ValidationSummary(true)
+    <div id="wrapper">
+        <div class="container-fluid" style="margin-bottom: 15px">
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="span6 padding-right-15">
+                        @Html.LabelFor(model => model.Name, new { @style = "font-weight: bold; font-size: 14px" })
+                    </div>
+                    <div class="span6 padding-right-15">
+                        @Html.LabelFor(model => model.Price, new { @style = "font-weight: bold; font-size: 14px" })
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="span6 padding-right-15">
+                        @Html.EditorFor(model => model.Name)
+                        @Html.ValidationMessageFor(model => model.Name)
+                    </div>
+                    <div class="span6 padding-right-15">
+                        @Html.EditorFor(model => model.Price)
+                        @Html.ValidationMessageFor(model => model.Price)
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="span6 padding-right-15">
+                        @Html.LabelFor(model => model.Color, new { @style = "font-weight: bold; font-size: 14px" })
+                    </div>
+                    <div class="span6 padding-right-15">
+                        @Html.LabelFor(model => model.Size, new { @style = "font-weight: bold; font-size: 14px" })
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="span6 padding-right-15">
+                        @Html.EditorFor(model => model.Color)
+                        @Html.ValidationMessageFor(model => model.Color)
+                    </div>
+                    <div class="span6 padding-right-15">
+                        @Html.EditorFor(model => model.Size)
+                        @Html.ValidationMessageFor(model => model.Size)
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="span6 padding-right-15">
+                        @Html.LabelFor(model => model.Quantity, new { @style = "font-weight: bold; font-size: 14px" })
+                    </div>
+                    <div class="span6 padding-right-15">
+                        @Html.LabelFor(model => model.Description, new { @style = "font-weight: bold; font-size: 14px" })
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="span6 padding-right-15">
+                        @Html.EditorFor(model => model.Quantity)
+                        @Html.ValidationMessageFor(model => model.Quantity)
+                    </div>
+                    <div class="span6 padding-right-15">
+                        @Html.TextBoxFor(model => model.Description)
+                        @Html.ValidationMessageFor(model => model.Description)
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="span6 padding-right-15">
+                        @Html.LabelFor(model => model.FilterCategory, new { @style = "font-weight: bold; font-size: 14px" })
+                    </div>
+                    <div class="span6 padding-right-15">
+                        @Html.LabelFor(model => model.FilterBrand, new { @style = "font-weight: bold; font-size: 14px" })
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="span6">
+                        @Html.DropDownListFor(model => model.FilterCategory, (SelectList)ViewBag.CategoryDDL,
+                                new Dictionary<string, object> { { "id", "ddlCategory" } })
+                    </div>
+                    <div class="span6">
+                        @Html.DropDownListFor(model => model.FilterBrand, (SelectList)ViewBag.BrandDDL,
+                                new Dictionary<string, object> { { "id", "ddlBrand" } })
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="span6">
+                        @Html.LabelFor(model => model.Image, new { @style = "font-weight: bold; font-size: 14px" })
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="span6">
+                        <input type="file" name="file" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="row-fluid margin-bottom-15" style="margin-top: 15px">
+                <div class="span12" style="text-align:center">
+                    <button id="createProduct" class="btn btn-info admin-btn" style="height: 40px">
+                        Save
+                    </button>
+                    <button type="button" id="cancelProduct" class="btn btn-info admin-btn" style="height: 40px"
+                            onclick="closeDialog();">
+                        Cancel
+                    </button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+}
+    

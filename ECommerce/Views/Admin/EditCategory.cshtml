@@ -1,0 +1,50 @@
+﻿@model ECommerce.Models.CategoryViewModel
+
+@{
+    Layout = "";
+}
+
+    
+@using (Html.BeginForm("UpdateCategory", "Admin", FormMethod.Post, new { id = "editForm" }))
+{
+    @Html.ValidationSummary(true)
+    <div id="wrapper">
+        <div class="container-fluid margin-bottom-15">
+            <div class="row-fluid margin-top-15">
+                <div class="span12">
+                    <div class="span4">
+                        @Html.LabelFor(model => model.Id, new { @style = "font-weight: bold; font-size: 14px" })
+                    </div>
+                    <div class="span8">
+                        @Html.EditorFor(model => model.Id)
+                        @*@Html.TextBoxFor(model => model.Id, new { disabled = "disabled", @readonly = "readonly" })*@
+                    </div>
+                </div>
+            </div>
+
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="span4">
+                        @Html.LabelFor(model => model.Name, new { @style = "font-weight: bold; font-size: 14px" })
+                    </div>
+                    <div class="span8">
+                        @Html.EditorFor(model => model.Name)
+                        @Html.ValidationMessageFor(model => model.Name)
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid margin-bottom-15">
+                <div class="span12" style="text-align: center;">
+                    <button class="btn btn-info admin-btn" style="height: 30px">
+                        Update
+                    </button>
+                    <button type="button" class="btn btn-info admin-btn" style="height: 30px"
+                            onclick="closeDialog();">
+                        Cancel
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+    

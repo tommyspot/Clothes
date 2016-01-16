@@ -1,0 +1,89 @@
+﻿/*Thao Huynh*/
+
+.grow {
+    height: 270px;
+    width: 270px;
+
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+}
+
+.grow:hover {
+    width: 270px;
+    height: 240px;
+}
+
+.banner_img {
+    margin-top: 0;
+    transition: margin 1s ease 0s;
+    -webkit-transition: margin 1s ease 0s;
+    -moz-transition: margin 1s ease 0s;
+    -o-transition: margin 1s ease 0s;
+    -ms-transition: margin 1s ease 0s;
+    height: 136px;
+}
+
+.banner_img:hover {
+    height: 200px;
+}
+
+.panel-primary {
+    color: #fff;
+    background-color: #4697ce;
+    border-color: #4697ce;
+}
+
+.tb-cell {
+    height: 45px;
+    padding-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.tb-cell-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.tb-cell-item img {
+    height: 80px;
+    width: 80px;
+}
+.tb-left-boder {
+    border-left: solid 1px #4697ce;
+}
+.tb-right-boder {
+    border-right: solid 1px #4697ce;
+}
+.tb-bottom-boder {
+    border-bottom: solid 1px #4697ce;
+}
+.admin-btn {
+    background-color: #4697ce;
+    background-image: linear-gradient(to bottom,#4697ce,#4697ce);
+}
+input, select {
+    width: 100%;
+}
+.margin-bottom-15 {
+    margin-bottom: 15px;
+}
+.margin-top-15 {
+    margin-top: 15px;
+}
+.padding-right-15 {
+    padding-right: 15px;
+}
+/*dialog*/
+.ui-widget-header {
+    color: white !important;
+    background: #4697ce !important;
+}
+.text-error {
+    color: #da4f49 !important;
+    font-weight: bold;
+}
